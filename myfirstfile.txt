@@ -1,2 +1,4 @@
 whatever
-have a dog at home
+<<<<<<< HEAD
+there is a bird
+>>>>>>> e104e1a1d92ae7f1a70c1af406350eaa9c2173bd
